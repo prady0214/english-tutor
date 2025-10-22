@@ -1,0 +1,8 @@
+
+{
+  "name": "EngliChat AI Tutor",
+  "description": "An intelligent, multimodal AI designed to teach English to Hindi speakers in real time. It listens, understands, and corrects users' English, improving grammar, vocabulary, sentence structure, and pronunciation through voice and text conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
